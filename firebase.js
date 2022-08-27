@@ -7,12 +7,7 @@ require("firebase/compat/firestore");
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyB8d12gJJ_frhAJ2vSXsCTh8cqkhIpN4aQ",
-  authDomain: "facebook-clone-fa9c1.firebaseapp.com",
-  projectId: "facebook-clone-fa9c1",
-  storageBucket: "facebook-clone-fa9c1.appspot.com",
-  messagingSenderId: "1086090483088",
-  appId: "1:1086090483088:web:b78066ba03562542f70f15",
+ YOur Data
 };
 
 !firebase.apps.length ? firebase.initializeApp(firebaseConfig) : firebase.app();
