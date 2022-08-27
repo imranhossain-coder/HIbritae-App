@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "facebook",
+    "slug": "facebook",
+    "sdkVersion": "44.0.0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "platforms":["ios", "android", "web"],
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.facebook.facebook"
+    }
+  }
+}
